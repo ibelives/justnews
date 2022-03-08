@@ -1,0 +1,98 @@
+[
+    {
+        "name": "微笑",
+        "file": "weixiao.svg"
+    },
+    {
+        "name": "咧嘴笑",
+        "file": "liezuixiao.svg"
+    },
+    {
+        "name": "大笑",
+        "file": "daxiao.svg"
+    },
+    {
+        "name": "偷笑",
+        "file": "touxiao.svg"
+    },
+    {
+        "name": "调皮",
+        "file": "tiaopi.svg"
+    },
+    {
+        "name": "笑哭",
+        "file": "xiaoku.svg"
+    },
+    {
+        "name": "嘿嘿",
+        "file": "heihei.svg"
+    },
+    {
+        "name": "可爱",
+        "file": "keai.svg"
+    },
+    {
+        "name": "瞪眼",
+        "file": "dengyan.svg"
+    },
+    {
+        "name": "亲亲",
+        "file": "qinqin.svg"
+    },
+    {
+        "name": "色",
+        "file": "se.svg"
+    },
+    {
+        "name": "酷",
+        "file": "ku.svg"
+    },
+    {
+        "name": "翻白眼",
+        "file": "fanbaiyan.svg"
+    },
+    {
+        "name": "汗",
+        "file": "han.svg"
+    },
+    {
+        "name": "大哭",
+        "file": "daku.svg"
+    },
+    {
+        "name": "困",
+        "file": "kun.svg"
+    },
+    {
+        "name": "难过",
+        "file": "nanguo.svg"
+    },
+    {
+        "name": "生气",
+        "file": "shengqi.svg"
+    },
+    {
+        "name": "庆祝",
+        "file": "qingzhu.svg"
+    },
+    {
+        "name": "赞",
+        "file": "zan.svg"
+    },
+    {
+        "name": "礼物",
+        "file": "liwu.svg"
+    },
+    {
+        "name": "爱心",
+        "file": "aixin.svg"
+    },
+    {
+        "name": "喝彩",
+        "file": "hecai.svg"
+    },
+    {
+        "name": "花",
+        "file": "hua.svg"
+    }
+]

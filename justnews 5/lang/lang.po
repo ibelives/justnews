@@ -1,0 +1,2750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JustNews\n"
+"POT-Creation-Date: 2022-01-17 11:36+0800\n"
+"PO-Revision-Date: 2022-01-17 11:36+0800\n"
+"Last-Translator: \n"
+"Language-Team: WPCOM <service@izt.me>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_n:1,2;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;_n_noop:1,2;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: src\n"
+"X-Poedit-SearchPathExcluded-1: themer/importer\n"
+"X-Poedit-SearchPathExcluded-2: *.js\n"
+
+#: 404.php:8
+msgid "404 Page not found!"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"We're sorry, but the page you're looking for may have been moved or deleted."
+msgstr ""
+
+#: 404.php:9
+msgid "Go home"
+msgstr ""
+
+#: archive.php:8
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:9
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:9
+msgid "F Y"
+msgstr ""
+
+#: archive.php:10
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:10
+msgid "Y"
+msgstr ""
+
+#: category.php:61 functions.php:202 functions.php:461 index.php:128
+#: modules/main-list.php:145 modules/main-list.php:172 modules/mix-tabs.php:232
+#: themer/member/init.php:717 themer/member/templates/follows.php:12
+#: themer/member/templates/follows.php:24
+msgid "Load more posts"
+msgstr ""
+
+#: category.php:65 themer/member/templates/follows.php:21
+msgid "Loading..."
+msgstr ""
+
+#: comments.php:27 woocommerce/single-product-reviews.php:74
+msgid "Name: "
+msgstr ""
+
+#: comments.php:28 woocommerce/single-product-reviews.php:76
+msgid "Email: "
+msgstr ""
+
+#: comments.php:29
+msgid "Website: "
+msgstr ""
+
+#: comments.php:30
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:42
+msgid "Type your comment here..."
+msgstr ""
+
+#: comments.php:43
+msgid "You must be logged in to post a comment..."
+msgstr ""
+
+#: comments.php:43
+#, php-format
+msgid "Please <a href=\"%s\">Login</a> to Comment"
+msgstr ""
+
+#: comments.php:43 comments.php:46 themer/member/init.php:900
+#: themer/member/init.php:916 themer/member/init.php:949
+#: woocommerce/single-product-reviews.php:79
+msgid "Submit"
+msgstr ""
+
+#: comments.php:57
+#, php-format
+msgid "Comments(%s)"
+msgstr ""
+
+#: comments.php:71 functions.php:696
+msgid "Reply"
+msgstr ""
+
+#: comments.php:76 themer/functions/pagination.php:16
+#: themer/functions/pagination.php:54
+msgctxt "pagination"
+msgid "Previous"
+msgstr ""
+
+#: comments.php:76 themer/functions/pagination.php:45
+#: themer/functions/pagination.php:79
+msgctxt "pagination"
+msgid "Next"
+msgstr ""
+
+#: functions.php:74 themer/member/templates/comment.php:10
+msgid "1 second ago"
+msgstr ""
+
+#: functions.php:84 themer/member/templates/comment.php:23
+#, php-format
+msgid "%s day ago"
+msgid_plural "%s days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:85 themer/member/templates/comment.php:24
+#, php-format
+msgid "%s hour ago"
+msgid_plural "%s hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:86
+#, php-format
+msgid "%s min ago"
+msgid_plural "%s mins ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:87 themer/member/templates/comment.php:26
+#, php-format
+msgid "%s second ago"
+msgid_plural "%s seconds ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:172
+msgid "Favorites"
+msgstr ""
+
+#: functions.php:205 functions.php:213
+msgid "You have no favorite posts."
+msgstr ""
+
+#: functions.php:207 functions.php:215
+msgid "This user has no favorite posts."
+msgstr ""
+
+#: functions.php:634 page-special.php:53
+msgctxt "topic"
+msgid "Read More"
+msgstr ""
+
+#: functions.php:919 themer/functions/mobile-share.php:15
+msgctxt "原文链接"
+msgid "Read More"
+msgstr ""
+
+#: functions.php:981 modules/mix-tabs.php:291 page-kuaixun.php:44
+msgid "Today"
+msgstr ""
+
+#: functions.php:983 modules/mix-tabs.php:293 page-kuaixun.php:46
+msgid "Yesterday"
+msgstr ""
+
+#: functions.php:1005 modules/mix-tabs.php:316 page-kuaixun.php:69
+#: single-kuaixun.php:36 single.php:143
+msgid "Generate poster"
+msgstr ""
+
+#: functions.php:1007 modules/mix-tabs.php:318 page-kuaixun.php:71
+#: page-special.php:61 single-kuaixun.php:38 widgets/kuaixun.php:55
+msgid "Share to: "
+msgstr ""
+
+#: functions.php:1056
+#, php-format
+msgid "You have %s new message!"
+msgid_plural "You have %s new messages!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:1113
+msgctxt "metas"
+msgid "Favorites"
+msgstr ""
+
+#: functions.php:1118
+msgctxt "metas"
+msgid "Likes"
+msgstr ""
+
+#: functions.php:1124
+msgctxt "metas"
+msgid "Views"
+msgstr ""
+
+#: functions.php:1132 functions.php:1134
+msgctxt "metas"
+msgid "Comments"
+msgstr ""
+
+#: functions.php:1186
+msgid "All content has been loaded"
+msgstr ""
+
+#: functions.php:1187
+msgid "No content yet"
+msgstr ""
+
+#: functions.php:1188
+msgid "Load failed, please try again later!"
+msgstr ""
+
+#: functions.php:1189
+msgid ""
+"You are not signed in, please sign in before proceeding with related "
+"operations!"
+msgstr ""
+
+#: functions.php:1190
+msgid "Please sign in"
+msgstr ""
+
+#: functions.php:1191 header.php:45
+msgid "Sign in"
+msgstr ""
+
+#: functions.php:1192 header.php:46
+msgid "Sign up"
+msgstr ""
+
+#: functions.php:1193
+msgid "Copy successful!"
+msgstr ""
+
+#: functions.php:1194
+msgid "The browser does not currently support the copy function"
+msgstr ""
+
+#: header.php:49 themer/member/templates/account.php:18
+msgid "Submit Post"
+msgstr ""
+
+#: header.php:56 searchform.php:2
+msgid "Type your search here ..."
+msgstr ""
+
+#: index.php:71
+msgid "All Topics"
+msgstr ""
+
+#: index.php:102 modules/main-list.php:111
+msgid "Latest Posts"
+msgstr ""
+
+#: modules/category-posts.php:101 widgets/kuaixun.php:35
+msgid "More"
+msgstr ""
+
+#: modules/mix-tabs.php:265 modules/mix-tabs.php:335 modules/mix-tabs.php:362
+#: page-kuaixun.php:87 page-special.php:98
+msgid "Load more topics"
+msgstr ""
+
+#: page-special.php:59
+#, php-format
+msgid "%s posts"
+msgstr ""
+
+#: search.php:9 themer/functions/breadcrumb.php:72
+msgid "None"
+msgstr ""
+
+#: search.php:10 themer/functions/breadcrumb.php:73
+#, php-format
+msgid "Search for: %s"
+msgstr ""
+
+#: single-kuaixun.php:7 themer/functions/breadcrumb.php:12
+msgid "Home"
+msgstr ""
+
+#: single-kuaixun.php:51
+msgctxt "kx"
+msgid "Previous: %link"
+msgstr ""
+
+#: single-kuaixun.php:52
+msgctxt "kx"
+msgid "Next: %link"
+msgstr ""
+
+#: single.php:62
+#, php-format
+msgid "%s views"
+msgstr ""
+
+#: single.php:81
+msgid "Like"
+msgstr ""
+
+#: single.php:85 single.php:124
+msgid "Donate"
+msgstr ""
+
+#: single.php:174
+msgctxt "single"
+msgid "Previous"
+msgstr ""
+
+#: single.php:185
+msgctxt "single"
+msgid "Next"
+msgstr ""
+
+#: single.php:201
+msgid "Related posts"
+msgstr ""
+
+#: templates/loop-card.php:22 templates/loop-default.php:40
+#: templates/loop-image.php:22 templates/loop-large-image.php:15
+#: templates/loop-masonry.php:22 templates/loop-multimage.php:14
+msgctxt "置顶"
+msgid "TOP"
+msgstr ""
+
+#: templates/loop-none.php:6
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: templates/loop-none.php:8
+msgid "Please type your keyword(s) to search."
+msgstr ""
+
+#: templates/loop-none.php:11
+msgid "Sorry, It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: themer/core/visual-editor.php:413
+#, php-format
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr ""
+
+#: themer/functions/blocks.php:29
+msgid "WPCOM扩展区块"
+msgstr ""
+
+#: themer/functions/breadcrumb.php:109
+msgid "404 ERROR"
+msgstr ""
+
+#: themer/functions/breadcrumb.php:114
+#, php-format
+msgid "Paged %s"
+msgstr ""
+
+#: themer/functions/content-filter.php:203
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: themer/functions/footer.php:46
+msgid "SHARE"
+msgstr ""
+
+#: themer/functions/footer.php:52
+msgid "TOP"
+msgstr ""
+
+#: themer/functions/form-validation.php:46
+msgid "No phone number added, phone number verification cannot be used"
+msgstr ""
+
+#: themer/functions/form-validation.php:48
+msgid "No email address added, email verification cannot be used"
+msgstr ""
+
+#: themer/functions/form-validation.php:95
+msgid "The password is incorrect"
+msgstr ""
+
+#: themer/functions/form-validation.php:116
+msgid "The username or password is incorrect"
+msgstr ""
+
+#: themer/functions/form-validation.php:117
+msgid "Login successfully"
+msgstr ""
+
+#: themer/functions/form-validation.php:148 themer/member/init.php:1507
+#, php-format
+msgid ""
+"Please activate your account. <a href=\"%s\" target=\"_blank\">Resend "
+"activation email</a>"
+msgstr ""
+
+#: themer/functions/form-validation.php:150 themer/member/init.php:1509
+msgid "Account awaiting approval."
+msgstr ""
+
+#: themer/functions/form-validation.php:215
+msgid "Registered successfully"
+msgstr ""
+
+#: themer/functions/form-validation.php:226
+#: themer/includes/social-login.php:678 themer/member/templates/register.php:12
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: themer/functions/form-validation.php:248
+msgid "Sorry, that mobile phone number already exists!"
+msgstr ""
+
+#: themer/functions/form-validation.php:294
+#: themer/functions/form-validation.php:354
+msgid "The username does not exist"
+msgstr ""
+
+#: themer/functions/form-validation.php:295
+msgid "Resend successfully"
+msgstr ""
+
+#: themer/functions/form-validation.php:320
+msgid "Error occurs when resend email."
+msgstr ""
+
+#: themer/functions/form-validation.php:328
+msgid "You have already activated your account."
+msgstr ""
+
+#: themer/functions/form-validation.php:355
+msgid "Submitted successfully"
+msgstr ""
+
+#: themer/functions/form-validation.php:394
+msgid "No email address or phone number added, you should add first"
+msgstr ""
+
+#: themer/functions/form-validation.php:432
+msgid "Reset failed, please retry!"
+msgstr ""
+
+#: themer/functions/form-validation.php:433
+msgid "Reset successfully"
+msgstr ""
+
+#: themer/functions/form-validation.php:472
+msgid "Generate reset key error."
+msgstr ""
+
+#: themer/functions/form-validation.php:491
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: themer/functions/form-validation.php:493
+#, php-format
+msgid "Site Name: %s"
+msgstr ""
+
+#: themer/functions/form-validation.php:495
+#: themer/functions/member-functions.php:703
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: themer/functions/form-validation.php:496
+#: themer/functions/member-functions.php:678
+#: themer/functions/member-functions.php:757
+msgid "If this was a mistake, ignore this email and nothing will happen."
+msgstr ""
+
+#: themer/functions/form-validation.php:497
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: themer/functions/form-validation.php:501
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: themer/functions/form-validation.php:532
+#: themer/functions/member-functions.php:685
+#: themer/functions/member-functions.php:713
+#: themer/functions/member-functions.php:738
+#: themer/functions/member-functions.php:764
+msgid "The email could not be sent."
+msgstr ""
+
+#: themer/functions/form-validation.php:548
+msgid "Failed to send"
+msgstr ""
+
+#: themer/functions/form-validation.php:549
+msgid "Send success"
+msgstr ""
+
+#: themer/functions/form-validation.php:587
+msgid "Failed to send email"
+msgstr ""
+
+#: themer/functions/form-validation.php:633
+#: themer/functions/form-validation.php:697
+msgid "verification failed"
+msgstr ""
+
+#: themer/functions/form-validation.php:634
+#: themer/functions/form-validation.php:698
+msgid "Verified successfully"
+msgstr ""
+
+#: themer/functions/form-validation.php:697
+msgid "Add failed"
+msgstr ""
+
+#: themer/functions/form-validation.php:698
+msgid "Added successfully"
+msgstr ""
+
+#: themer/functions/form-validation.php:734
+msgid "The phone number has been registered"
+msgstr ""
+
+#: themer/functions/form-validation.php:1009
+msgid "Successfully deleted!"
+msgstr ""
+
+#: themer/functions/form-validation.php:1031
+msgid "Social login is not turned on"
+msgstr ""
+
+#: themer/functions/form-validation.php:1037
+#: themer/functions/member-functions.php:191
+#: themer/functions/member-functions.php:210
+#: themer/functions/member-functions.php:259
+#: themer/functions/member-functions.php:277
+#: themer/functions/member-functions.php:300
+msgid "Not set"
+msgstr ""
+
+#: themer/functions/form-validation.php:1037
+#: themer/functions/member-functions.php:300
+msgid "Connect"
+msgstr ""
+
+#: themer/functions/form-validation.php:1040
+msgid ""
+"The current account only has this login method, please bind other login "
+"methods before unbinding!"
+msgstr ""
+
+#: themer/functions/form-validation.php:1044
+#: themer/includes/social-login.php:676
+msgid "Parameter error"
+msgstr ""
+
+#: themer/functions/member-functions.php:9
+#: themer/functions/member-functions.php:369
+#: themer/functions/member-functions.php:597
+#: themer/includes/social-login.php:709
+msgctxt "label"
+msgid "Username"
+msgstr ""
+
+#: themer/functions/member-functions.php:13
+#: themer/functions/member-functions.php:373
+#: themer/includes/social-login.php:711
+msgid "Phone number / E-mail / Username"
+msgstr ""
+
+#: themer/functions/member-functions.php:13
+#: themer/functions/member-functions.php:373
+#: themer/functions/member-functions.php:601
+#: themer/includes/social-login.php:711
+msgid "Username or email address"
+msgstr ""
+
+#: themer/functions/member-functions.php:17
+#: themer/functions/member-functions.php:37
+#: themer/functions/member-functions.php:58
+#: themer/functions/member-functions.php:67
+#: themer/includes/social-login.php:715
+msgctxt "label"
+msgid "Password"
+msgstr ""
+
+#: themer/functions/member-functions.php:21
+#: themer/functions/member-functions.php:42
+#: themer/functions/member-functions.php:63
+#: themer/includes/social-login.php:717
+msgctxt "placeholder"
+msgid "Password"
+msgstr ""
+
+#: themer/functions/member-functions.php:49
+#: themer/functions/member-functions.php:117
+#: themer/functions/member-functions.php:216
+#: themer/functions/member-functions.php:282
+msgctxt "label"
+msgid "Email address"
+msgstr ""
+
+#: themer/functions/member-functions.php:54
+#: themer/functions/member-functions.php:122
+msgctxt "placeholder"
+msgid "Email address"
+msgstr ""
+
+#: themer/functions/member-functions.php:72
+msgctxt "placeholder"
+msgid "Confirm password"
+msgstr ""
+
+#: themer/functions/member-functions.php:87
+#: themer/functions/member-functions.php:197
+#: themer/functions/member-functions.php:264 themer/member/init.php:1692
+msgctxt "label"
+msgid "Phone number"
+msgstr ""
+
+#: themer/functions/member-functions.php:92
+msgctxt "placeholder"
+msgid "Phone number"
+msgstr ""
+
+#: themer/functions/member-functions.php:99
+#: themer/functions/member-functions.php:129
+msgctxt "label"
+msgid "Verification code"
+msgstr ""
+
+#: themer/functions/member-functions.php:105
+#: themer/functions/member-functions.php:135
+msgctxt "placeholder"
+msgid "Please enter your verification code"
+msgstr ""
+
+#: themer/functions/member-functions.php:148
+msgid "General"
+msgstr ""
+
+#: themer/functions/member-functions.php:153
+#: woocommerce/global/form-login.php:39
+msgid "Password"
+msgstr ""
+
+#: themer/functions/member-functions.php:158
+#: themer/functions/member-functions.php:832
+msgid "Logout"
+msgstr ""
+
+#: themer/functions/member-functions.php:165
+#: themer/functions/member-functions.php:172
+msgctxt "title"
+msgid "Connect"
+msgstr ""
+
+#: themer/functions/member-functions.php:188
+#: themer/functions/member-functions.php:207
+#: themer/functions/member-functions.php:256
+#: themer/functions/member-functions.php:274
+#: themer/functions/nav-walker-edit.php:151 themer/member/init.php:1735
+#: woocommerce/myaccount/my-address.php:42
+msgid "Edit"
+msgstr ""
+
+#: themer/functions/member-functions.php:188
+#: themer/functions/member-functions.php:191
+#: themer/functions/member-functions.php:207
+#: themer/functions/member-functions.php:210
+#: themer/functions/member-functions.php:256
+#: themer/functions/member-functions.php:259
+#: themer/functions/member-functions.php:274
+#: themer/functions/member-functions.php:277
+msgid "Private"
+msgstr ""
+
+#: themer/functions/member-functions.php:191
+#: themer/functions/member-functions.php:259
+msgid "Add phone number"
+msgstr ""
+
+#: themer/functions/member-functions.php:210
+#: themer/functions/member-functions.php:277
+msgid "Add email address"
+msgstr ""
+
+#: themer/functions/member-functions.php:226
+msgid "Nickname"
+msgstr ""
+
+#: themer/functions/member-functions.php:234
+msgid "Description"
+msgstr ""
+
+#: themer/functions/member-functions.php:238
+msgid "Optional, description can not exceed 200 characters"
+msgstr ""
+
+#: themer/functions/member-functions.php:305
+msgid "Connected"
+msgstr ""
+
+#: themer/functions/member-functions.php:308
+#: themer/includes/messages-list.php:76 themer/includes/messages-list.php:128
+#: themer/includes/notification-list.php:221
+#: themer/includes/notification-list.php:285 themer/member/init.php:1742
+msgid "Delete"
+msgstr ""
+
+#: themer/functions/member-functions.php:331
+msgctxt "label"
+msgid "Old password"
+msgstr ""
+
+#: themer/functions/member-functions.php:335
+msgctxt "placeholder"
+msgid "Please enter your old password"
+msgstr ""
+
+#: themer/functions/member-functions.php:339
+#: themer/functions/member-functions.php:388
+msgctxt "label"
+msgid "New password"
+msgstr ""
+
+#: themer/functions/member-functions.php:345
+#: themer/functions/member-functions.php:395
+msgid "Password must be 6-32 characters"
+msgstr ""
+
+#: themer/functions/member-functions.php:347
+#: themer/functions/member-functions.php:397
+msgctxt "placeholder"
+msgid "Please enter your new password"
+msgstr ""
+
+#: themer/functions/member-functions.php:351
+#: themer/functions/member-functions.php:401
+msgctxt "label2"
+msgid "New password"
+msgstr ""
+
+#: themer/functions/member-functions.php:356
+#: themer/functions/member-functions.php:407
+msgctxt "placeholder"
+msgid "Please confirm your new password"
+msgstr ""
+
+#: themer/functions/member-functions.php:420
+msgid " is required"
+msgstr ""
+
+#: themer/functions/member-functions.php:421
+msgid "This is not a valid email"
+msgstr ""
+
+#: themer/functions/member-functions.php:422
+msgid "Please enter your "
+msgstr ""
+
+#: themer/functions/member-functions.php:423
+msgid "Your password must be 6-32 characters"
+msgstr ""
+
+#: themer/functions/member-functions.php:424
+msgid "Your passwords do not match"
+msgstr ""
+
+#: themer/functions/member-functions.php:425
+msgid "Please enter a valid phone number"
+msgstr ""
+
+#: themer/functions/member-functions.php:426
+msgid "Please read and agree with the terms"
+msgstr ""
+
+#: themer/functions/member-functions.php:427
+msgid "Your verification code error"
+msgstr ""
+
+#: themer/functions/member-functions.php:428
+msgid "Please slide to verify"
+msgstr ""
+
+#: themer/functions/member-functions.php:428
+msgid "Please click to verify"
+msgstr ""
+
+#: themer/functions/member-functions.php:429
+msgid "Slide verify failed, please try again"
+msgstr ""
+
+#: themer/functions/member-functions.php:429
+msgid "Click verify failed, please try again"
+msgstr ""
+
+#: themer/functions/member-functions.php:430
+msgid "The nonce check failed"
+msgstr ""
+
+#: themer/functions/member-functions.php:431
+msgid "Request Error!"
+msgstr ""
+
+#: themer/functions/member-functions.php:442
+msgid "Posts"
+msgstr ""
+
+#: themer/functions/member-functions.php:447
+msgid "Comments"
+msgstr ""
+
+#: themer/functions/member-functions.php:458
+msgctxt "social login"
+msgid "QQ"
+msgstr ""
+
+#: themer/functions/member-functions.php:462
+msgctxt "social login"
+msgid "Weibo"
+msgstr ""
+
+#: themer/functions/member-functions.php:466
+#: themer/functions/member-functions.php:470
+#: themer/functions/member-functions.php:474
+msgctxt "social login"
+msgid "Wechat"
+msgstr ""
+
+#: themer/functions/member-functions.php:478
+msgctxt "social login"
+msgid "Google"
+msgstr ""
+
+#: themer/functions/member-functions.php:482
+msgctxt "social login"
+msgid "Facebook"
+msgstr ""
+
+#: themer/functions/member-functions.php:486
+msgctxt "social login"
+msgid "Twitter"
+msgstr ""
+
+#: themer/functions/member-functions.php:490
+msgctxt "social login"
+msgid "Github"
+msgstr ""
+
+#: themer/functions/member-functions.php:675
+#: themer/functions/member-functions.php:730
+#: themer/functions/member-functions.php:754
+#, php-format
+msgid "Hi, %s!"
+msgstr ""
+
+#: themer/functions/member-functions.php:676
+#, php-format
+msgid ""
+"Welcome to %s. To activate your account and verify your email address, "
+"please click the following link:"
+msgstr ""
+
+#: themer/functions/member-functions.php:680
+#, php-format
+msgid "[%s] Please verify your email address"
+msgstr ""
+
+#: themer/functions/member-functions.php:692
+msgid "The user does not exist"
+msgstr ""
+
+#: themer/functions/member-functions.php:702
+#, php-format
+msgid "%s has just created an account on %s!"
+msgstr ""
+
+#: themer/functions/member-functions.php:704
+#, php-format
+msgid "E-Mail: %s"
+msgstr ""
+
+#: themer/functions/member-functions.php:706
+msgid "If you want to approve the new user, please go to wp-admin page."
+msgstr ""
+
+#: themer/functions/member-functions.php:708
+#, php-format
+msgid "[%s] New user account"
+msgstr ""
+
+#: themer/functions/member-functions.php:731
+#, php-format
+msgid ""
+"Congratulations, your account has been activated successfully, you can now "
+"login: <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: themer/functions/member-functions.php:733
+#, php-format
+msgid "[%s] Welcome to join us"
+msgstr ""
+
+#: themer/functions/member-functions.php:755
+#, php-format
+msgid ""
+"Your verification code is <b style=\"color:red;\">%s</b>, please enter in 10 "
+"minutes."
+msgstr ""
+
+#: themer/functions/member-functions.php:759
+#, php-format
+msgid "[%s] Your verification code"
+msgstr ""
+
+#: themer/functions/member-functions.php:789
+msgid "Profile"
+msgstr ""
+
+#: themer/functions/member-functions.php:810 themer/includes/messages.php:28
+msgid "Messages"
+msgstr ""
+
+#: themer/functions/member-functions.php:820
+#: themer/includes/notifications.php:29
+msgid "Notifications"
+msgstr ""
+
+#: themer/functions/member-functions.php:828
+msgid "Account"
+msgstr ""
+
+#: themer/functions/mobile-share.php:41 themer/functions/mobile-share.php:105
+msgid "Save the poster and share with more friends"
+msgstr ""
+
+#: themer/functions/mobile-share.php:106
+msgid "Poster generation..."
+msgstr ""
+
+#: themer/functions/mobile-share.php:107
+msgid "Poster generation failed"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:100
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:104
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:119
+msgid "sub item"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:134
+msgid "Move up"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:147
+msgid "Move down"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:151
+msgid "Edit menu item"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:175
+msgid "Move"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:176
+msgid "Up one"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:177
+msgid "Down one"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:180
+msgid "To the top"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:188
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:207 themer/member/init.php:1745
+msgid "Remove"
+msgstr ""
+
+#: themer/functions/nav-walker-edit.php:225 themer/member/init.php:281
+msgid "Cancel"
+msgstr ""
+
+#: themer/functions/pagination.php:48 themer/functions/pagination.php:82
+msgctxt "页码"
+msgid "GO"
+msgstr ""
+
+#: themer/functions/seo.php:269
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: themer/functions/woocommerce.php:26 themer/functions/woocommerce.php:140
+#: themer/functions/woocommerce.php:144 themer/functions/woocommerce.php:652
+#: themer/functions/woocommerce.php:653
+msgid "Select an option&hellip;"
+msgstr ""
+
+#: themer/functions/woocommerce.php:80
+#, php-format
+msgid "Reviews (%d)"
+msgstr ""
+
+#: themer/functions/woocommerce.php:130
+msgid "Name"
+msgstr ""
+
+#: themer/functions/woocommerce.php:141
+msgid "City"
+msgstr ""
+
+#: themer/functions/woocommerce.php:143
+msgid "District"
+msgstr ""
+
+#: themer/functions/woocommerce.php:147
+msgid "Address"
+msgstr "详细地址"
+
+#: themer/functions/woocommerce.php:148
+msgid "Detailed address"
+msgstr ""
+
+#: themer/functions/woocommerce.php:207 themer/functions/woocommerce.php:315
+#: themer/functions/woocommerce.php:341
+msgid "Orders"
+msgstr ""
+
+#: themer/functions/woocommerce.php:208 themer/functions/woocommerce.php:324
+msgid "Downloads"
+msgstr ""
+
+#: themer/functions/woocommerce.php:209 themer/functions/woocommerce.php:332
+msgid "Addresses"
+msgstr ""
+
+#: themer/functions/woocommerce.php:443
+msgid "Sort by sales"
+msgstr ""
+
+#: themer/functions/woocommerce.php:511 themer/functions/woocommerce.php:529
+msgid "Shipped"
+msgstr ""
+
+#: themer/functions/woocommerce.php:516
+#, php-format
+msgid "Shipped <span class=\"count\">(%s)</span>"
+msgid_plural "Shipped <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/functions/woocommerce.php:599
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: themer/functions/woocommerce.php:641
+msgid "required"
+msgstr ""
+
+#: themer/functions/woocommerce.php:643
+msgid "optional"
+msgstr ""
+
+#: themer/includes/comment-pro.php:77
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: themer/includes/follow.php:29
+msgid "Followed!"
+msgstr ""
+
+#: themer/includes/follow.php:35
+msgid "You can’t follow yourself!"
+msgstr ""
+
+#: themer/includes/follow.php:38
+msgid "Unfollow successfully!"
+msgstr ""
+
+#: themer/includes/follow.php:41
+msgid "Follow failed, please try again later!"
+msgstr ""
+
+#: themer/includes/follow.php:45
+msgctxt "follow"
+msgid "Please login first"
+msgstr ""
+
+#: themer/includes/follow.php:202
+msgid "Follows"
+msgstr ""
+
+#: themer/includes/follow.php:223
+msgid "Follow"
+msgstr ""
+
+#: themer/includes/follow.php:228
+msgid "Followed"
+msgstr ""
+
+#: themer/includes/messages-list.php:46
+#: themer/includes/notification-list.php:191
+msgid "Time"
+msgstr ""
+
+#: themer/includes/messages-list.php:47
+msgid "From"
+msgstr ""
+
+#: themer/includes/messages-list.php:48
+#: themer/includes/notification-list.php:192
+msgid "To"
+msgstr ""
+
+#: themer/includes/messages-list.php:49
+msgid "Content"
+msgstr ""
+
+#: themer/includes/messages-list.php:50
+#: themer/includes/notification-list.php:195
+#: themer/includes/plugin-activation.php:2674
+msgid "Status"
+msgstr ""
+
+#: themer/includes/messages-list.php:118
+msgid "Read"
+msgstr ""
+
+#: themer/includes/messages-list.php:118
+msgid "Unread"
+msgstr ""
+
+#: themer/includes/messages-list.php:127
+msgid ""
+"You are about to delete this message\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: themer/includes/messages.php:48
+msgid "Message"
+msgstr ""
+
+#: themer/includes/messages.php:58 themer/includes/messages.php:130
+msgctxt "message"
+msgid "Please login first"
+msgstr ""
+
+#: themer/includes/messages.php:61 themer/includes/messages.php:98
+msgid "You can’t send yourself a private message!"
+msgstr ""
+
+#: themer/includes/messages.php:285 themer/includes/messages.php:290
+msgctxt "list"
+msgid "Messages"
+msgstr ""
+
+#: themer/includes/messages.php:296
+msgid "Search messages"
+msgstr ""
+
+#: themer/includes/multi-filter.php:198
+msgctxt "multi-filter"
+msgid "Default"
+msgstr ""
+
+#: themer/includes/multi-filter.php:199
+msgctxt "multi-filter"
+msgid "Title"
+msgstr ""
+
+#: themer/includes/multi-filter.php:200
+msgctxt "multi-filter"
+msgid "Views"
+msgstr ""
+
+#: themer/includes/multi-filter.php:201
+msgctxt "multi-filter"
+msgid "Comments"
+msgstr ""
+
+#: themer/includes/multi-filter.php:202
+msgctxt "multi-filter"
+msgid "Likes"
+msgstr ""
+
+#: themer/includes/multi-filter.php:203
+msgctxt "multi-filter"
+msgid "Favorites"
+msgstr ""
+
+#: themer/includes/notification-list.php:193
+msgid "Title"
+msgstr ""
+
+#: themer/includes/notification-list.php:194
+msgctxt "notice"
+msgid "Content"
+msgstr ""
+
+#: themer/includes/notification-list.php:272
+msgid "已读"
+msgstr ""
+
+#: themer/includes/notification-list.php:272
+msgid "未读"
+msgstr ""
+
+#: themer/includes/notification-list.php:284
+msgid ""
+"You are about to delete this notification\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+
+#: themer/includes/notifications.php:224 themer/includes/notifications.php:229
+msgctxt "list"
+msgid "Notifications"
+msgstr ""
+
+#: themer/includes/notifications.php:236
+msgid "Search notifications"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:335
+msgid "Install Required Plugins"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:336
+msgid "Install Plugins"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:338
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:340
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:341
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:344
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:350
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:356
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:362
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:374
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:379
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:384
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:389
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:393
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:394
+#: themer/includes/plugin-activation.php:923
+#: themer/includes/plugin-activation.php:926
+#: themer/includes/plugin-activation.php:2653
+#: themer/includes/plugin-activation.php:3700
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:395
+#: themer/includes/plugin-activation.php:3279
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:396
+#: themer/includes/plugin-activation.php:3072
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:398
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:400
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:402
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:403
+msgid "Dismiss this notice"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:404
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:608
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:609
+msgid "Update Required"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:726
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:926
+#, php-format
+msgid "Plugins updated successfully. %1$s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:1033
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:1033
+#: themer/includes/plugin-activation.php:1036
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:1036
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:1229
+#: themer/includes/plugin-activation.php:3068
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2090
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2393
+msgid "Required"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2396
+msgid "Recommended"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2412
+msgid "WordPress Repository"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2415
+msgid "External Source"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2418
+msgid "Pre-Packaged"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2435
+msgid "Not Installed"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2439
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2441
+msgid "Active"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2447
+msgid "Required Update not Available"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2450
+msgid "Requires Update"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2453
+msgid "Update recommended"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2462
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2508
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:2512
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:2516
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:2520
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/includes/plugin-activation.php:2602
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2610
+msgid "Installed version:"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2618
+msgid "Minimum required version:"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2630
+msgid "Available version:"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2653
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2667
+msgid "Plugin"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2668
+msgid "Source"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2669
+msgid "Type"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2673
+msgid "Version"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2723
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2728
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2734
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2804
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2837
+msgid "Install"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2843
+msgid "Update"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2846
+msgid "Activate"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2877
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2879
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2920
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:2922
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3028
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3054
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3278
+msgid "Plugin activation failed."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3618
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3621
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3623
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3627
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3629
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3629
+#: themer/includes/plugin-activation.php:3637
+msgid "Show Details"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3629
+#: themer/includes/plugin-activation.php:3637
+msgid "Hide Details"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3630
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3632
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3635
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3637
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3638
+msgid "All installations have been completed."
+msgstr ""
+
+#: themer/includes/plugin-activation.php:3640
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: themer/includes/social-login.php:691 themer/includes/social-login.php:698
+#, php-format
+msgid "Hi, <b>%s</b>!"
+msgstr ""
+
+#: themer/includes/social-login.php:692
+#, php-format
+msgid ""
+"Your <b>%s</b> account has been bound successfully, you can log in directly "
+"with your <b>%s</b> account in the future."
+msgstr ""
+
+#: themer/includes/social-login.php:699
+#, php-format
+msgid ""
+"You are logging in with a <b>%s</b> account, please bind an existing account "
+"or register a new account."
+msgstr ""
+
+#: themer/includes/social-login.php:707
+msgid "Bind an existing account"
+msgstr ""
+
+#: themer/includes/social-login.php:722
+msgid "Login and bind"
+msgstr ""
+
+#: themer/includes/social-login.php:730
+msgid "Register a new account"
+msgstr ""
+
+#: themer/includes/social-login.php:733
+msgid "Register"
+msgstr ""
+
+#: themer/includes/term-meta.php:125
+msgid "posts"
+msgstr ""
+
+#: themer/includes/user-groups.php:29 themer/includes/user-groups.php:37
+#: themer/includes/user-groups.php:63 themer/includes/user-groups.php:66
+#: themer/includes/user-groups.php:166
+msgid "Groups"
+msgstr ""
+
+#: themer/includes/user-groups.php:30
+msgid "User Group"
+msgstr ""
+
+#: themer/includes/user-groups.php:31
+msgid "Search Groups"
+msgstr ""
+
+#: themer/includes/user-groups.php:32
+msgid "All Groups"
+msgstr ""
+
+#: themer/includes/user-groups.php:33
+msgid "Edit Group"
+msgstr ""
+
+#: themer/includes/user-groups.php:34
+msgid "Update Group"
+msgstr ""
+
+#: themer/includes/user-groups.php:35
+msgid "Add Group"
+msgstr ""
+
+#: themer/includes/user-groups.php:36
+msgid "No Group"
+msgstr ""
+
+#: themer/includes/user-groups.php:144
+msgid "Users"
+msgstr ""
+
+#: themer/includes/user-groups.php:171 themer/includes/user-groups.php:174
+msgid "Select Group"
+msgstr ""
+
+#: themer/includes/user-groups.php:204
+msgid "Group"
+msgstr ""
+
+#: themer/includes/user-groups.php:244
+msgid "Change"
+msgstr ""
+
+#: themer/includes/user-groups.php:247
+msgid "User Groups"
+msgstr ""
+
+#: themer/includes/user-groups.php:255
+msgid "Filter"
+msgstr ""
+
+#: themer/member/init.php:268 themer/member/init.php:639
+#: themer/member/init.php:649 themer/member/init.php:654
+#: themer/member/init.php:981 themer/member/init.php:991
+#: themer/member/init.php:996
+msgid "I'm not a robot"
+msgstr ""
+
+#: themer/member/init.php:269
+msgid "You are verified"
+msgstr ""
+
+#: themer/member/init.php:276 themer/member/init.php:279
+msgid "Select photo"
+msgstr ""
+
+#: themer/member/init.php:277
+msgid "Select your profile photo"
+msgstr ""
+
+#: themer/member/init.php:278
+msgid "Select your cover photo"
+msgstr ""
+
+#: themer/member/init.php:280
+msgid "Apply"
+msgstr ""
+
+#: themer/member/init.php:282
+msgid "This image is too large!"
+msgstr ""
+
+#: themer/member/init.php:283
+msgid "Sorry this is not a valid image."
+msgstr ""
+
+#: themer/member/init.php:284
+msgid "Nonce check failed!"
+msgstr ""
+
+#: themer/member/init.php:285
+msgid "Image upload failed!"
+msgstr ""
+
+#: themer/member/init.php:286
+msgid "You must login first!"
+msgstr ""
+
+#: themer/member/init.php:287
+msgid "Please select a photo!"
+msgstr ""
+
+#: themer/member/init.php:288
+msgid "Request failed!"
+msgstr ""
+
+#: themer/member/init.php:314
+#, php-format
+msgid "%s’s %s"
+msgstr ""
+
+#: themer/member/init.php:441
+msgid "No user found."
+msgstr ""
+
+#: themer/member/init.php:466 themer/member/init.php:494
+#: themer/member/init.php:569 themer/member/init.php:609
+msgid "Save Changes"
+msgstr ""
+
+#: themer/member/init.php:502
+msgctxt "验证方式"
+msgid "STEP 1"
+msgstr ""
+
+#: themer/member/init.php:503
+msgctxt "安全验证"
+msgid "STEP 2"
+msgstr ""
+
+#: themer/member/init.php:504
+msgctxt "绑定帐号"
+msgid "STEP 3"
+msgstr ""
+
+#: themer/member/init.php:549 themer/member/init.php:592
+msgid "Next"
+msgstr ""
+
+#: themer/member/init.php:556
+msgid "Verification failed"
+msgstr ""
+
+#: themer/member/init.php:582
+msgid "Verify by"
+msgstr ""
+
+#: themer/member/init.php:585
+msgctxt "Verify"
+msgid "Phone number"
+msgstr ""
+
+#: themer/member/init.php:586
+msgctxt "Verify"
+msgid "Email address"
+msgstr ""
+
+#: themer/member/init.php:658 themer/member/init.php:1000
+msgid "Get Code"
+msgstr ""
+
+#: themer/member/init.php:720
+msgid "You have not created any posts."
+msgstr ""
+
+#: themer/member/init.php:720
+msgid "This user has not created any posts."
+msgstr ""
+
+#: themer/member/init.php:779
+msgid "Load more comments"
+msgstr ""
+
+#: themer/member/init.php:782
+msgid "You have not made any comments."
+msgstr ""
+
+#: themer/member/init.php:782
+msgid "This user has not made any comments."
+msgstr ""
+
+#: themer/member/init.php:845
+#, php-format
+msgid "I have read and agree to the %s and %s"
+msgstr ""
+
+#: themer/member/init.php:847
+#, php-format
+msgid "I have read and agree to the %s"
+msgstr ""
+
+#: themer/member/init.php:852
+msgid "Create an account"
+msgstr ""
+
+#: themer/member/init.php:875 woocommerce/global/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: themer/member/init.php:876
+msgid "Forgot password?"
+msgstr ""
+
+#: themer/member/init.php:878 themer/member/templates/login.php:24
+msgid "Sign In"
+msgstr ""
+
+#: themer/member/init.php:921
+msgid "Your phone number error!"
+msgstr ""
+
+#: themer/member/init.php:922
+msgid "Unable to get the phone number, please return to the previous step."
+msgstr ""
+
+#: themer/member/init.php:928
+msgid "Password reset email send successfully!"
+msgstr ""
+
+#: themer/member/init.php:929
+msgid ""
+"Check your email for a link to reset your password. If it doesn’t appear "
+"within a few minutes, check your spam folder."
+msgstr ""
+
+#: themer/member/init.php:938
+msgid "Password reset link invalid"
+msgstr ""
+
+#: themer/member/init.php:940
+msgid "Click here to resend password reset email"
+msgstr ""
+
+#: themer/member/init.php:957
+msgid "Password reset successfully"
+msgstr ""
+
+#: themer/member/init.php:958
+msgid "Your password has been reset successfully! "
+msgstr ""
+
+#: themer/member/init.php:959
+msgid " Click here to return to the login page"
+msgstr ""
+
+#: themer/member/init.php:1037
+msgid "Your activation link has expired."
+msgstr ""
+
+#: themer/member/init.php:1039
+msgid "Your activation link is invalid."
+msgstr ""
+
+#: themer/member/init.php:1042 themer/member/init.php:1086
+msgid "Resend activation email"
+msgstr ""
+
+#: themer/member/init.php:1046
+msgid "Your account has been activated successfully."
+msgstr ""
+
+#: themer/member/init.php:1047
+msgid "Click here to login"
+msgstr ""
+
+#: themer/member/init.php:1070
+#, php-format
+msgid "Log in with %s"
+msgstr ""
+
+#: themer/member/init.php:1279
+msgid "Your password reset link has expired"
+msgstr ""
+
+#: themer/member/init.php:1281
+msgid "Your password reset link appears to be invalid"
+msgstr ""
+
+#: themer/member/init.php:1513
+msgid "Blacklist user."
+msgstr ""
+
+#: themer/member/init.php:1554
+msgid "Unapproved"
+msgstr ""
+
+#: themer/member/init.php:1561
+msgid "Blacklist"
+msgstr ""
+
+#: themer/member/init.php:1635
+msgid "Approve"
+msgstr ""
+
+#: themer/member/init.php:1636
+msgid "Disapprove"
+msgstr ""
+
+#: themer/member/init.php:1637
+msgid "Add to blacklist"
+msgstr ""
+
+#: themer/member/init.php:1638
+msgid "Remove from blacklist"
+msgstr ""
+
+#: themer/member/init.php:1683
+msgid "Registered"
+msgstr ""
+
+#: themer/member/init.php:1688
+msgid "User"
+msgstr ""
+
+#: themer/member/init.php:1696
+msgid "Email"
+msgstr ""
+
+#: themer/member/init.php:1728
+msgid "Super Admin"
+msgstr ""
+
+#: themer/member/init.php:1755
+#, php-format
+msgid "View posts by %s"
+msgstr ""
+
+#: themer/member/init.php:1756
+msgid "View"
+msgstr ""
+
+#: themer/member/init.php:1781
+msgid "Show more details"
+msgstr ""
+
+#: themer/member/init.php:1798
+msgid "Mobile Phone"
+msgstr ""
+
+#: themer/member/init.php:1916
+msgctxt "stats"
+msgid "posts"
+msgstr ""
+
+#: themer/member/init.php:1921
+msgctxt "stats"
+msgid "comments"
+msgstr ""
+
+#: themer/member/init.php:1933
+msgctxt "stats"
+msgid "questions"
+msgstr ""
+
+#: themer/member/init.php:1939
+msgctxt "stats"
+msgid "answers"
+msgstr ""
+
+#: themer/member/init.php:1949
+msgctxt "stats"
+msgid "followers"
+msgstr ""
+
+#: themer/member/templates/account.php:45
+msgid "Updated successfully."
+msgstr ""
+
+#: themer/member/templates/comment.php:25
+#, php-format
+msgid "%s minute ago"
+msgid_plural "%s minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+#: themer/member/templates/comment.php:32
+#, php-format
+msgid "On <a target=\"_blank\" href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: themer/member/templates/follows.php:2
+msgid "Following"
+msgstr ""
+
+#: themer/member/templates/follows.php:3
+msgid "Followers"
+msgstr ""
+
+#: themer/member/templates/follows.php:15
+msgid "You have not followed any users."
+msgstr ""
+
+#: themer/member/templates/follows.php:15
+msgid "This user has not followed any users."
+msgstr ""
+
+#: themer/member/templates/follows.php:26
+msgid "You have not been followed by any users."
+msgstr ""
+
+#: themer/member/templates/follows.php:26
+msgid "This user has not been followed by any users."
+msgstr ""
+
+#: themer/member/templates/login.php:19 themer/member/templates/login.php:20
+msgid "Log in with SMS"
+msgstr ""
+
+#: themer/member/templates/login.php:19 themer/member/templates/login.php:20
+msgid "Log in with username"
+msgstr ""
+
+#: themer/member/templates/login.php:25 themer/member/templates/login.php:39
+msgid "No account?"
+msgstr ""
+
+#: themer/member/templates/login.php:25 themer/member/templates/login.php:39
+msgid "Create one!"
+msgstr ""
+
+#: themer/member/templates/login.php:32
+msgid "Sign in with"
+msgstr ""
+
+#: themer/member/templates/login.php:44 themer/member/templates/register.php:32
+msgid "Go back to home"
+msgstr ""
+
+#: themer/member/templates/lostpassword.php:5
+msgid "STEP 1"
+msgstr ""
+
+#: themer/member/templates/lostpassword.php:6
+msgid "STEP 2"
+msgstr ""
+
+#: themer/member/templates/lostpassword.php:7
+msgid "STEP 3"
+msgstr ""
+
+#: themer/member/templates/lostpassword.php:8
+msgid "STEP 4"
+msgstr ""
+
+#: themer/member/templates/message-list.php:5
+msgid "Image"
+msgstr ""
+
+#: themer/member/templates/message-list.php:23
+msgid "Have not sent or received private messages"
+msgstr ""
+
+#: themer/member/templates/notification.php:20
+msgid "No notification"
+msgstr ""
+
+#: themer/member/templates/profile.php:26
+msgid "Change cover"
+msgstr ""
+
+#: themer/member/templates/register.php:18
+msgid "Sign Up"
+msgstr ""
+
+#: themer/member/templates/register.php:19
+msgid "Already have an account?"
+msgstr ""
+
+#: themer/member/templates/register.php:19
+msgctxt "sign"
+msgid "Sign in"
+msgstr ""
+
+#: themer/member/templates/register.php:25
+msgid "Sign up with"
+msgstr ""
+
+#: widgets/comments.php:46 widgets/comments.php:47
+msgid "Anonymous"
+msgstr ""
+
+#: widgets/comments.php:55
+msgid "Comment on"
+msgstr ""
+
+#: widgets/comments.php:62
+msgid "No comments"
+msgstr ""
+
+#: widgets/post-tabs.php:121 widgets/post-thumb.php:105 widgets/profile.php:47
+msgid "No Posts"
+msgstr ""
+
+#: widgets/profile.php:40
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/special.php:70
+msgctxt "speial"
+msgid "Recent Posts: "
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:108
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:25
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:50
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:26
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:32
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:35
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/global/form-login.php:35
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:52
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:55
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:41
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:25
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing %1$d&ndash;%2$d of %3$d result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/dashboard.php:30
+#: woocommerce/myaccount/dashboard.php:48
+#, php-format
+msgid "Hello %1$s (not %1$s? <a href=\"%2$s\">Sign out</a>)"
+msgstr ""
+
+#: woocommerce/myaccount/dashboard.php:38
+#: woocommerce/myaccount/dashboard.php:56
+#, php-format
+msgid ""
+"From your account dashboard you can view your <a href=\"%1$s\">recent "
+"orders</a>, manage your <a href=\"%2$s\">shipping addresses</a> and <a href="
+"\"%3$s\">edit your password and account details</a>."
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:41 woocommerce/myaccount/orders.php:98
+msgid "Browse products"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:43
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:51
+msgid "Save address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:26
+#: woocommerce/order/order-details-customer.php:22
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:32
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:62
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:63
+#, php-format
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:100
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:24
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#~ msgid "Create Account"
+#~ msgstr "注册帐号"
+
+#~ msgid "Uploading..."
+#~ msgstr "上传中..."
+
+#~ msgid "Processing..."
+#~ msgstr "处理中..."
+
+#~ msgid "&laquo; Previous"
+#~ msgstr "&laquo; 上一页"
+
+#~ msgid "Next &raquo;"
+#~ msgstr "下一页 &raquo;"
+
+#~ msgid "Add post"
+#~ msgstr "投稿"
+
+#~ msgid "Creating account…"
+#~ msgstr "正在提交..."
+
+#~ msgid "Signing In..."
+#~ msgstr "登录中..."
+
+#~ msgctxt "single"
+#~ msgid "&laquo; Previous"
+#~ msgstr "&laquo; 上一篇"
+
+#~ msgctxt "single"
+#~ msgid "Next  &raquo;"
+#~ msgstr "下一篇  &raquo;"
+
+#~ msgid "Contact Us"
+#~ msgstr "联系我们"
+
+#~ msgid ""
+#~ "You are about to delete this message '%s'\n"
+#~ "  'Cancel' to stop, 'OK' to delete."
+#~ msgstr "您确定需要删除此私信（ID：%s）吗？"
+
+#~ msgid "%d posts"
+#~ msgstr "%d 文章"
+
+#~ msgid "%d comments"
+#~ msgstr "%d 评论"
+
+#~ msgid "%d questions"
+#~ msgstr "%d 问题"
+
+#~ msgid "%d answers"
+#~ msgstr "%d 回答"
+
+#~ msgid "%d followers"
+#~ msgstr "%d 粉丝"
+
+#~ msgid ""
+#~ "Your <b>%s</b> account has been bound successfully, you can log in "
+#~ "directly with your Weibo account in the future."
+#~ msgstr "您的<b>%s</b>帐号已绑定成功，后续将可以直接使用<b>%s</b>登录本站！"
+
+#~ msgid "Scan this QR code"
+#~ msgstr "扫码分享到微信"
+
+#~ msgctxt "placeholder"
+#~ msgid "Please re-enter your new password"
+#~ msgstr "请再次输入新密码"
+
+#~ msgid "Province"
+#~ msgstr "省份"
+
+#~ msgctxt "with first and last result"
+#~ msgid "Showing the single result"
+#~ msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+#~ msgstr[0] "共1件商品"
+#~ msgstr[1] "共%3$d件商品，本页显示第%1$d-%2$d件"
+
+#~ msgid "Shipping address"
+#~ msgstr "配送地址"
+
+#~ msgid "No posts."
+#~ msgstr "暂无内容"
+
+#~ msgctxt "placeholder"
+#~ msgid "Username"
+#~ msgstr "请输入用户名（不支持中文）"
+
+#~ msgid "Title:"
+#~ msgstr "标题："
+
+#~ msgid "Posts number:"
+#~ msgstr "显示数量："
+
+#~ msgid "Order by:"
+#~ msgstr "排序"
+
+#~ msgid "Your password must be between 6-32 characters"
+#~ msgstr "密码必须为6~32个字符"
+
+#~ msgid "QQ"
+#~ msgstr "腾讯QQ"
+
+#~ msgid "Sina Weibo"
+#~ msgstr "新浪微博"
+
+#~ msgid "WeChat"
+#~ msgstr "微信"
+
+#~ msgid "Your cart is currently empty."
+#~ msgstr "您的购物车目前是空的"
+
+#~ msgid "All"
+#~ msgstr "全部"
+
+#~ msgid "Read more"
+#~ msgstr "查看更多"
+
+#~ msgid "Links: "
+#~ msgstr "友情链接："
+
+#~ msgid "<i class=\"fa fa-tags\"></i> Tags: "
+#~ msgstr "<i class=\"fa fa-tags\"></i> 标签："
+
+#~ msgctxt "news"
+#~ msgid "Previous: %link"
+#~ msgstr "上一篇：%link"
+
+#~ msgctxt "news"
+#~ msgid "Next: %link"
+#~ msgstr "下一篇：%link"
+
+#~ msgctxt "product"
+#~ msgid "Previous: %link"
+#~ msgstr "上一个：%link"
+
+#~ msgctxt "product"
+#~ msgid "Next: %link"
+#~ msgstr "下一个：%link"
+
+#~ msgid "Read More &raquo;"
+#~ msgstr "阅读更多&raquo;"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgstr[0] "抱歉，你没有权限安装插件 %1$s"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgstr[0] "抱歉，你没有权限更新插件 %1$s"
+
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgid_plural ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgstr[0] "抱歉，你没有权限启用插件 %1$s"
+
+#~ msgid "Return to the dashboard"
+#~ msgstr "返回仪表盘"
+
+#~ msgctxt "%s = version number"
+#~ msgid "TGMPA v%s"
+#~ msgstr "工具版本：v%s"
+
+#~ msgid ""
+#~ "No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+#~ "Dashboard</a>"
+#~ msgstr "没有插件需要安装、更新或者启用。点击<a href=\"%1$s\">返回仪表盘</a>"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Install %2$s"
+#~ msgstr "安装%2$s"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Update %2$s"
+#~ msgstr "更新 %2$s"
+
+#~ msgctxt "%2$s = plugin name in screen reader markup"
+#~ msgid "Activate %2$s"
+#~ msgstr "启用 %2$s"
+
+#~ msgid "More &raquo;"
+#~ msgstr "更多 &raquo;"
+
+#~ msgid "d/m/Y"
+#~ msgstr "Y-m-d"
+
+#~ msgid "HOTLINE"
+#~ msgstr "客服电话"
+
+#~ msgid "There is no excerpt because this is a protected post."
+#~ msgstr "无法获取摘要信息，因为这是一个受保护的文章。"
+
+#~ msgid "Previous post: %link"
+#~ msgstr "上一篇：%link"
+
+#~ msgid "Next post: %link"
+#~ msgstr "下一篇：%link"
+
+#~ msgctxt "This theme requires the following plugins: %1$s."
+#~ msgid "This theme requires the following plugin: %1$s."
+#~ msgstr "当前主题依赖的插件：%1$s"
+
+#~ msgctxt "This theme recommends the following plugins: %1$s."
+#~ msgid "This theme recommends the following plugin: %1$s."
+#~ msgstr "当前主题推荐的插件：%1$s"
+
+#~ msgctxt ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugins."
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to install the %1$s "
+#~ "plugin."
+#~ msgstr "抱歉，你没有权限安装插件 %1$s"
+
+#~ msgctxt ""
+#~ "The following plugins need to be updated to their latest version to "
+#~ "ensure maximum compatibility with this theme: %1$s."
+#~ msgid ""
+#~ "The following plugin needs to be updated to its latest version to ensure "
+#~ "maximum compatibility with this theme: %1$s."
+#~ msgstr "以下插件需要升级至最新版本才能保证与主题的兼容性：%1$s"
+
+#~ msgctxt "There are updates available for the following plugins: %1$s."
+#~ msgid "There is an update available for: %1$s."
+#~ msgstr "插件有更新：%1$s"
+
+#~ msgctxt ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugins."
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to update the %1$s "
+#~ "plugin."
+#~ msgstr "抱歉，你没有权限更新插件 %1$s"
+
+#~ msgctxt "The following required plugins are currently inactive: %1$s."
+#~ msgid "The following required plugin is currently inactive: %1$s."
+#~ msgstr "以下依赖插件未启用：%1$s"
+
+#~ msgctxt "The following recommended plugins are currently inactive: %1$s."
+#~ msgid "The following recommended plugin is currently inactive: %1$s."
+#~ msgstr "以下推荐插件未启用：%1$s"
+
+#~ msgctxt ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugins."
+#~ msgid ""
+#~ "Sorry, but you do not have the correct permissions to activate the %1$s "
+#~ "plugin."
+#~ msgstr "抱歉，你没有权限启用插件 %1$s"
+
+#~ msgctxt "Begin installing plugins"
+#~ msgid "Begin installing plugin"
+#~ msgstr "开始安装插件"
+
+#~ msgctxt "Begin updating plugins"
+#~ msgid "Begin updating plugin"
+#~ msgstr "开始更新插件"
+
+#~ msgctxt "Begin activating plugins"
+#~ msgid "Begin activating plugin"
+#~ msgstr "开始启用插件"
+
+#~ msgid "No result for '%s'"
+#~ msgstr "抱歉，未找到与“%s”相关的内容。"
